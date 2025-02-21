@@ -4,7 +4,7 @@ import google.generativeai as genai
 import re
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyD4kUMXec6KfEXIPE0Q40IYwBpAQYG-Ars")
+genai.configure(api_key="use ur own api key")
 
 # Function to extract text from a PDF
 def extract_text_from_pdf(pdf_file):
